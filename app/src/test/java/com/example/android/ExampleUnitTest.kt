@@ -1,4 +1,4 @@
-package com.example.a7th_umc_android
+package com.example.android
 
 import org.junit.Test
 

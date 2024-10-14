@@ -4,7 +4,4 @@
         <!-- 디폴트 폰트 적용 -->
         <item name="android:fontFamily">@font/font_regul</item>
     </style>
-
-    <style name="Theme.Android" parent="Base.Theme.Android" />
 </resources>
-

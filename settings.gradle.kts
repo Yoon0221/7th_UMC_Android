@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "7th_UMC_Android"
+rootProject.name = "android"
 include(":app")
+ 
